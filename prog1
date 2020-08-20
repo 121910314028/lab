@@ -1,0 +1,13 @@
+#this program reads two numbers and print their sum
+print('Abhinav -028')
+a=int(input())
+b=int(input())
+c=int(input())
+sum=a+b+c
+print('Sum = ',sum)
+
+output-Abhinav -028
+1
+3
+4
+Sum =  8
