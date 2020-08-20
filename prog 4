@@ -1,0 +1,10 @@
+Read an integer:
+a=int(input())
+print("current :",a)
+print("previous:",a-1)
+print("next :",a+1)
+
+output-179
+       current 179
+       previous 178
+       next 180
