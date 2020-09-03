@@ -1,0 +1,11 @@
+list=[2, 4, 6, 8, 4, 6, 8, 2]
+print("the original list is:" +str(list))
+
+res =[]
+for i in the list:
+    if i not in res:
+       res.append(i)
+print("the list after removing duplicates:" +str(res))
+
+output-the original list is :[2 4 6 8 4 6 8 2]
+       the list after removing duplicates : [2 4 6 8]
