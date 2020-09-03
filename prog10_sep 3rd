@@ -1,0 +1,8 @@
+from numpy import*
+new_arr=array([2, 5, 7, 9])
+print("original array is:",new_arr)
+res_arr=new_arr[::-1]
+print("resultant reversed array:",res_arr)
+
+output-original array is:[2 5 7 9]
+       resultant reversed array is :[9 7 5 9]
